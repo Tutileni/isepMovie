@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Simao/ISEP2017/APP_ADROID/isepMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f94dda091b1421df7f6267bcd448dd355e937811">
+        <dex dex="/Users/Simao/ISEP2017/APP_ADROID/isepMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c3238d0a9420d2369884e8be8eb6de33a39f5df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Simao/ISEP2017/APP_ADROID/isepMovie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Simao/ISEP2017/APP_ADROID/isepMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_edb2a19fcdefac0c05242137691405f2a872e626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Simao/ISEP2017/APP_ADROID/isepMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Simao/ISEP2017/APP_ADROID/isepMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a9331e7f5a3710ff0c30603a8b1e3482f8cddee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Simao/ISEP2017/APP_ADROID/isepMovie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3592c345c632c642c17862b17ddd4045d56970f1">
+        <dex dex="/Users/Simao/ISEP2017/APP_ADROID/isepMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_020d9c3e1e435928d4baa1265308bc1adf61a144/classes.dex" />
+    </item>
+
+</items>

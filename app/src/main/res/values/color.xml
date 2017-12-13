@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+
+    <color name="gray">#bebebe</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#418efc</color>
+    <color name="blueSub">#95b7fa</color>
+    <color name="background_material_light">#ffeeeeee</color>
+    <color name="listPressed">#15bf81</color>
+
+    <!-- Tab colors -->
+    <color name="tabTextSelected">#acacac</color>
+    <color name="tabSelected">#15bf81</color>
+
+    <!-- Movie List -->
+    <color name="movieListDivider">#d6d6d6</color>
+    <color name="movieListRowTitle">#404040</color>
+    <color name="movieListRowSub">#919191</color>
+
+    <!-- Movie details info -->
+    <color name="movieDetailsInfoBackground">#FFFFFF</color>
+    <color name="movieDetailsInfoTitle">#606060</color>
+    <color name="movieDetailsInfoData">#888888</color>
+    <color name="movieDetailsSimilarBackground">#E1E1E1</color>
+
+    <!-- Movie details cast -->
+    <color name="movieDetailsCastBorder">#D6D6D6</color>
+    <color name="movieDetailsCastTitle">#515151</color>
+    <color name="movieDetailsCastCharacter">#BBBBBB</color>
+
+    <!-- Movie details overview -->
+    <color name="movieDetailsOverview">#3C3C3C</color>
+    <color name="movieDetailsMoreIconBackground">#15bf81</color>
+
+    <!-- Cast details info -->
+    <color name="castDetailsInfoBirth">#858585</color>
+    <color name="castDetailsInfoShowMore">#15bf81</color>
+
+    <!-- Genres -->
+    <color name="genresListPressed">#15bf81</color>
+    <color name="genresTitle">#bf154b</color>
+
+    <!-- About -->
+    <color name="aboutBackground">#212121</color>
+    <color name="aboutText">#B7B7B7</color>
+    <color name="aboutMail">#1E7EC2</color>
+</resources>

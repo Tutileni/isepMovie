@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Le nom de l'application La valeur par défaut est le nom spécifié pour l'étiquette de l'application -->
+    <string name="ga_appName">ISEP Movies</string>
+
+    <!-- La version de l'application Par défaut à android: versionName spécifié dans le AndroidManifest.xml -->
+    <string name="ga_appVersion">1.0</string>
+
+    <!-- La période d'envoi en secondes lorsque les services Google Play sont
+          indisponible. La période par défaut est 1800 secondes ou 30 minutes -->
+    <integer name="ga_dispatchPeriod">15</integer>
+
+    <!-- Activer le mode de fonctionnement à sec. La valeur par défaut est false -->
+    <bool name="ga_dryRun">false</bool>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="?attr/actionBarSize">
+
+    <com.simao.isepmovies.helper.ObservableListView
+        android:id="@+id/movieslist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/blue"
+        android:dividerHeight="1dp"
+        android:listSelector="@drawable/listitem_selector"
+        tools:listitem="@layout/row" />
+</FrameLayout>

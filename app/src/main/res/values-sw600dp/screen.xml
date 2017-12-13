@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imageSize" translatable="false">w500</string>
+    <string name="backDropImgSize" translatable="false">w1280</string>
+    <string name="galleryImgSize" translatable="false">w500</string>
+    <string name="galleryPreviewImgSize" translatable="false">w780</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Config -->
+    <string name="app_name">Isep Movies</string>
+
+    <!-- MovieList Controller -->
+    <string name="noConnection">Impossible d\'extraire les données du serveur.</string>
+    <string name="loadingMore">Chargement en plus ...</string>
+
+    <!-- MovieDetails Controller -->
+    <string name="min">min.</string>
+    <string name="voteCount">votes</string>
+    <string name="noOverview">Désolé, il n\'y a présentement aucune présentation pour ce film.</string>
+    <string name="noBiography">Désolé, il n\'y a actuellement aucune biographie pour cet acteur.</string>
+    <string name="relatedMovies">FILMS CONNEXES</string>
+
+    <!-- CastDetails -->
+    <string name="alsoKnownAs">Aussi connu sous le nom:</string>
+    <string name="knownFor">CONNU POUR</string>
+    <string name="showMore">Tout Aficher</string>
+
+    <!-- About View -->
+    <string name="aboutApp" translatable="false">ISEP MOVIES</string>
+    <string name="TMDbText" translatable="false">Ce produit utilise l\'API TMDb mais n\'est pas approuvé ni certifié par TMDb.</string>
+    <string name="aboutSupport">Support:\u0020</string>
+    <string name="aboutSupportMail" translatable="false">simaopedro0903@gmail.com</string>
+    <string name="aboutIsep" translatable="false">ISEP</string>
+    <string name="aboutWebSite" translatable="false">www.isep.fr</string>
+    <string name="MailSubject">Sujet</string>
+    <string name="MailDesc">Posez votre question ici.</string>
+    <string name="MailSend">Envoyez un mail:</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Films</item>
+        <item>Genres</item>
+        <item>À propos de nous</item>
+    </string-array>
+
+    <!-- ActionBar titles -->
+    <string name="moviesTitle">Films</string>
+    <string name="genresTitle">Genres</string>
+
+    <!-- Movies tabs -->
+    <string-array name="moviesTabs">
+        <item>Upcoming</item>
+        <item>En cours</item>
+        <item>Populaire</item>
+        <item>Les mieux notés</item>
+    </string-array>
+
+    <!-- detailTabs tabs -->
+    <string-array name="detailTabs">
+        <item>Info</item>
+        <item>Cast</item>
+        <item>Aperçu</item>
+    </string-array>
+
+    <!-- Cast detailTabs tabs -->
+    <string-array name="castDetailTabs">
+        <item>Info</item>
+        <item>Crédits</item>
+        <item>Biographie</item>
+    </string-array>
+
+    <!-- Search -->
+    <string name="search_title">Rechercher un film</string>
+    <string name="search_hint">Rechercher un film…</string>
+    <string name="nomoreresults">Il n\'y a aucun résultat</string>
+    <string name="noResults">Désolé, aucun résultat trouvé.</string>
+    <string name="timeout">La connexion a expiré, veuillez réessayer</string>
+
+
+</resources>
